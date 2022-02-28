@@ -1,3 +1,20 @@
+.testcontainer{
+    margin-top: 30px;
+    background-color: blue;
+    border: 1px yellow solid;
+    color: white;
+}
+
+
+.snyggcontainer{
+    border: 1px solid blue;
+    margin-top: 2rem;
+    padding: 3rem;
+}
+
+
+
+
 .c1{
     background-color: aqua;
     color:black;
